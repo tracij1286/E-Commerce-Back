@@ -58,8 +58,7 @@ N/A
 https://github.com/tracij1286/E-Commerce-Back.git
 
 ## Walk-Through
-https://drive.google.com/file/d/1UThR9ipUXGNISK6iFxWaC9r2Mf_ZBw7u/view?usp=share_link
-
+https://drive.google.com/file/d/1LUCNeQ3LepZ0TaK-i_aGfCr7Y7UBtSk_/view?usp=sharing
 
 
 ## Questions
